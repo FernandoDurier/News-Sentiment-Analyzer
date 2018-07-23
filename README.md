@@ -1,4 +1,5 @@
-# This project was built in order to gather news data to enrich business process event logs for my graduation thesis and master course thesis
+# Description
+ This project was built in order to gather news data to enrich business process event logs for my graduation thesis and master course thesis and to support CoopIS 2018 submission ( Context-Aware Process Predictive Monitoring: The Impact of News Polarity ).
 
 ## AS IS
 As is the code is a set of scripts ran semiautomatically to gather news from the NY Times News Archive API.
