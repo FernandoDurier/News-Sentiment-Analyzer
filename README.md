@@ -28,8 +28,6 @@ The second function of this project is to iterate over this metadata collection 
 
 ## Future Works
 
-As said in the section before, this project needs some code reviews and refactors. Those, could not be done meanwhile the research time schedule for now, as I need to manage not only this but the master course itself and my job at IBM.
-
 The mapped steps for better code are as follows:
 
 1. Remove the orchestration of calling scrape functions and sentiment analysis functions from stream-study.js and allocate on another folder and file just for that as independent function, leaving the stream-study to its purpose, to handle with MongoDB operations usin streams.
